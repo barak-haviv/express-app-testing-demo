@@ -3,7 +3,7 @@
   "description": "a simple express app for demonstrating testing and code coverage",
   "version": "1.0.0",
   "engines": {
-    "node": ">=6.11.x"
+    "node": ">=8.9.x"
   },
   "private": true,
   "main": "app/server.js",
